@@ -1,0 +1,14 @@
+e:\Users\Nathaniel\Desktop\Dropbox\[NCKU STUFF]\宿網破解計畫\ncku_autologin_wpf\ncku_autologin_wpf\bin\Release\ncku_autologin_wpf.exe.config
+e:\Users\Nathaniel\Desktop\Dropbox\[NCKU STUFF]\宿網破解計畫\ncku_autologin_wpf\ncku_autologin_wpf\bin\Release\ncku_autologin_wpf.exe
+e:\Users\Nathaniel\Desktop\Dropbox\[NCKU STUFF]\宿網破解計畫\ncku_autologin_wpf\ncku_autologin_wpf\bin\Release\ncku_autologin_wpf.pdb
+e:\Users\Nathaniel\Desktop\Dropbox\[NCKU STUFF]\宿網破解計畫\ncku_autologin_wpf\ncku_autologin_wpf\obj\Release\MainWindow.g.cs
+e:\Users\Nathaniel\Desktop\Dropbox\[NCKU STUFF]\宿網破解計畫\ncku_autologin_wpf\ncku_autologin_wpf\obj\Release\App.g.cs
+e:\Users\Nathaniel\Desktop\Dropbox\[NCKU STUFF]\宿網破解計畫\ncku_autologin_wpf\ncku_autologin_wpf\obj\Release\GeneratedInternalTypeHelper.g.cs
+e:\Users\Nathaniel\Desktop\Dropbox\[NCKU STUFF]\宿網破解計畫\ncku_autologin_wpf\ncku_autologin_wpf\obj\Release\ncku_autologin_wpf_MarkupCompile.cache
+e:\Users\Nathaniel\Desktop\Dropbox\[NCKU STUFF]\宿網破解計畫\ncku_autologin_wpf\ncku_autologin_wpf\obj\Release\ncku_autologin_wpf_MarkupCompile.lref
+e:\Users\Nathaniel\Desktop\Dropbox\[NCKU STUFF]\宿網破解計畫\ncku_autologin_wpf\ncku_autologin_wpf\obj\Release\MainWindow.baml
+e:\Users\Nathaniel\Desktop\Dropbox\[NCKU STUFF]\宿網破解計畫\ncku_autologin_wpf\ncku_autologin_wpf\obj\Release\ncku_autologin_wpf.g.resources
+e:\Users\Nathaniel\Desktop\Dropbox\[NCKU STUFF]\宿網破解計畫\ncku_autologin_wpf\ncku_autologin_wpf\obj\Release\ncku_autologin_wpf.Properties.Resources.resources
+e:\Users\Nathaniel\Desktop\Dropbox\[NCKU STUFF]\宿網破解計畫\ncku_autologin_wpf\ncku_autologin_wpf\obj\Release\ncku_autologin_wpf.csproj.GenerateResource.Cache
+e:\Users\Nathaniel\Desktop\Dropbox\[NCKU STUFF]\宿網破解計畫\ncku_autologin_wpf\ncku_autologin_wpf\obj\Release\ncku_autologin_wpf.exe
+e:\Users\Nathaniel\Desktop\Dropbox\[NCKU STUFF]\宿網破解計畫\ncku_autologin_wpf\ncku_autologin_wpf\obj\Release\ncku_autologin_wpf.pdb
